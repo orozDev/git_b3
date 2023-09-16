@@ -1,5 +1,5 @@
 git init <br>
-git add .
+git add . <br>
 git commit -m '#message' <br>
 git branch -M  #branch <br>
 git remote add origin #link <br>
